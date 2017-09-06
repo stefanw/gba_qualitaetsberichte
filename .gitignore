@@ -1,0 +1,4 @@
+*.xml.gz
+*.xml
+env/
+data/

@@ -1,0 +1,5 @@
+jupyter==1.0.0
+lxml==3.8.0
+numpy==1.13.1
+pandas==0.20.3
+PyPrind==2.11.1
